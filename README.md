@@ -47,7 +47,7 @@ To develop a **ServiceNow catalog item** that allows employees to request laptop
 
 ## 🎥 Demo Video  
 🎬 **Watch the project demo here:**  
-[👉 Laptop Request Catalog Item - Demo Video](https://drive.google.com/file/d/18G6km83Wh3P9hW_bAvk3POM1WjCsCyza/view?usp=drivesdk)
+[👉 Laptop Request Catalog Item - Demo Video](https://drive.google.com/file/d/1-wuvo4cq58JyBCcvIx5EpIF9DqX9llEO/view?usp=drivesdk)
 
 ---
 
